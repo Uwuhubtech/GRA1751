@@ -1,0 +1,196 @@
+@charset "utf-8";
+body {
+    padding: 0;
+    margin: 0;
+    background-color: ccc;
+    height: auto;
+}
+
+h2 {
+    position: absolute;
+    font-size: 104px;
+    padding-top: 0px;
+    margin-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    margin-left: 15px;
+    font-family: eurostile;
+}
+
+
+.videos {
+    float: none;
+    padding-top: 581px;
+    padding-left: 61px;
+
+}
+iframe {
+    padding-right: 63px;
+}
+
+
+wrapper {
+    width: 1366px;
+    margin: 0 auto;
+    display: block;
+    background-color: #fff;
+}
+#mailings {
+    height: 850px;
+    background-image: url(Layer%2010.png);
+}
+.signup {
+    display: inline-block;
+    margin-left: 1009px;
+    margin-top: 128px;
+}
+h3 {
+    font-size: 60px;
+    font-weight: normal;
+    font-family: beastly;
+    color: #1F2B50;
+}
+input {
+    height: 30px;
+    border-radius: 20px;
+    border-color: #76580C;
+    border-width: thick;
+
+}
+button { background-color: #B87A28;
+	border-color: #ECCB3A;
+	border-radius: 20px;
+	font-size: 20px;
+	padding: 5px;
+	color: #ECD156;
+	transition: color 1s;
+}
+button:hover {
+color: #100101}
+
+
+
+
+body wrapper nav {
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+
+}
+nav {
+    background-color: rgba(241,238,231,0.59);
+
+}
+
+ul a li  {
+    display: inline-block;
+    padding: 16px 20px;
+    font-size: 20px;
+    color: #B56719;
+    margin-left: 0px;
+    /* [disabled]margin-right: 6px; */
+    font-family: beastly;
+    font-weight: 100;
+    transition: color 1s;
+}
+ul a li:hover {
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+    color: #462C04;
+
+}
+#media {
+    font-size: 30px;
+    color: #FFFFFF;
+    height: 900px;
+    background-size: cover;
+    background-image: url(Media.png);
+
+
+}
+
+footer {
+    text-align: justify;
+    background-color: #F7F5F1;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#home {
+    height: 872px;
+    background-image: url(Layer%205%20copy.png);
+    color: #7EECEA;
+    font-family: "eurostile",sans-serif;
+
+}
+.fade {animation: fadeIn 5s;}
+
+@keyframes fadeIn{
+	0%{ opacity: 0;}
+	100% {opacity: 1}
+}
+#tour {
+    width: auto;
+    height: 1084px;
+    background-image: url(Buy%20Tickets.png);
+}
+h1 {
+    font-family: eurostile;
+    font-size: 100px;
+    position: absolute;
+    color: #FDE200;
+    padding-top: 68px;
+    /* [disabled]padding-right: 15px; */
+    /* [disabled]padding-bottom: 15px; */
+    padding-left: 165px;
+    margin-left: -1px;
+    vertical-align: central;
+}
+#merch {
+    height: 910px;
+    background-image: url(Group%201.png);
+}
+#privacy {
+    background-image: url(Layer%2014.png);
+    height: 879px;
+}
+#news {
+    width: auto;
+    height: 875px;
+    background-image: url(Read%20More.png);
+}
+#musicstore {
+    height: 875px;
+    background-image: url(Buy%20Now.png);
+    color: #482502;
+}
+h4 {
+    position: absolute;
+    font-family: beastly;
+    font-size: 40px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-left: 568px;
+}
+#blogs {
+    height: 1500px;
+    background-color: #F7F5F1;
+    vertical-align: center;
+}
+.twit {
+    margin-left: 449px;
+    margin-top: 150px;
+    position: absolute;
+}
+h5 {
+    font-size: 50px;
+    font-family: beastly;
+    color: #542F0B;
+    margin-left: 602px;
+    position: absolute;
+}
